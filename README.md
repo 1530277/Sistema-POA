@@ -2,6 +2,8 @@
 
 El principal motivo de que suba mi trabajo a la plataforma es tener un respaldo de éste ya que le invertí un buen tiempo
 y si es de ayuda para alguien más mejor. Para ejecutar se debe tener instalado un servidor local o subir a un servidor web, importar la base de datos y descomprimir el archivo "carpeta.rar" donde se encuentran las hojas de estilo.El proyecto no está completo pero creo es un buen ejemplo para "checar código".
+
+El archivo "Capturas.rar" contiene impresiones de pantalla de la implementación.
 ---------------------------------------------------------------------------------------------------------------------------
 Autor: Luis Angel Torres Grimaldo, Estudiante de Ingeniería en Tecnologías de la Información. Ubicación: Universidad Politécnica de Victoria. Ciudad Victoria, Tamaulipas - México.
 
